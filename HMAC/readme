@@ -1,0 +1,31 @@
+      __  ____  ______   ______
+     / / / /  |/  /   | / ____/
+    / /_/ / /|_/ / /| |/ /     
+   / __  / /  / / ___ / /___   
+  /_/ /_/_/  /_/_/  |_\____/   
+                               
+
+#USAGE:
+	To calculate the hmac of your files, just chose drag and drop your file int the Calculate-HMAC/Calculate folder, than
+get your file, key,iv and respective hmac from the Calculate-HMAC/Calculated folder.
+	To verify a hmac, just drag and drop the file, the hmac of the same file, the key and the iv into the
+Verify-HMAC/Verify folder. If the hmac is valid, all files will be moved to HMAC-Valit, if not, they will be sent to
+HMAC-Not-Valid.
+
+
+#CAUTION!
+	
+	To prevent bugs, DO NOT check the calculate or verify more than one hmac at the same time.
+
+	The key needs to be provided in hex base called as "key-file.txt"
+
+	The iv needs to be provided in hex base called as "iv-file.txt" 
+
+	The hmc to verify needs to be provided called as "MacToCheck.mac"
+
+	key length> 128 bits
+
+	iv length > 128 bits
+
+	
+	

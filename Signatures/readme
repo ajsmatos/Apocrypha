@@ -1,0 +1,21 @@
+     _____ _                   __                      
+    / ___/(_)___ _____  ____ _/ /___  __________  _____
+    \__ \/ / __ `/ __ \/ __ `/ __/ / / / ___/ _ \/ ___/
+   ___/ / / /_/ / / / / /_/ / /_/ /_/ / /  /  __(__  ) 
+  /____/_/\__, /_/ /_/\__,_/\__/\__,_/_/   \___/____/  
+         /____/         
+
+
+#USAGE:
+	To sign your files, just drag and drop your private key and your file to sign into Singning/Sign folder,
+than, get your, private key, signature and file from the ingning/Signed folder.
+	To verify a signature, just drag and drop the the respective public key,file signed and signature into the 
+Verifying/Verify folder. If the signature is valid, all files will be transfered to Valid-Sign folder, if not,
+they will be transferd to Not-Valid-Sign.
+
+#CUTION!
+	To prevent bugs, DO NOT sign or verify more than one file at the same time.
+
+	To verify, the public key needs to be correctly called "public-key-file.pem".
+
+	To verify, the signature needs to be correctly called "signature.sig".

@@ -1,0 +1,74 @@
+
+----------------WELCOME TO------------------------------
+    ___    ____  ____  ____________  ______  __  _____ 
+   /   |  / __ \/ __ \/ ____/ __ \ \/ / __ \/ / / /   |
+  / /| | / /_/ / / / / /   / /_/ /\  / /_/ / /_/ / /| |
+ / ___ |/ ____/ /_/ / /___/ _, _/ / / ____/ __  / ___ |
+/_/  |_/_/    \____/\____/_/ |_| /_/_/   /_/ /_/_/  |_|
+                                                         
+                                  
+                                                            
+
+"Apocrypha, where all forbidden knowledge can be found. An endless
+ library, with shelves stretching onward in all directions, stacks
+ on top of stacks.Every book has a black cover with no title. Masses
+ of ghosts movethrough the stacks, rifling through books, eternally
+ searching for the knowledge they sought whilst living."
+                  -http://elderscrolls.wikia.com/wiki/Hermaeus_Mora
+
+______________________________________________________________________
+
+TABLE OF CONTENTS
+I.   ABOUT APOCRYPHA
+II.  INSTALLING APOCRYPHA
+III. TO RUN APOCRYPHA
+
+
+
+I.ABOUT APOCRYPHA
+
+Apocrypha is a drag an drop utility based on openssl, that
+
+>  Encrypts files
+>  Decrypts files
+>  Signs files and verifies RSA signatures
+>  Calculates hash values
+>  Verifies the Integrity of files
+>  Calcultaes and verifies HMACs
+
+Apocrypha was developped and implemented in the context of a IT Security University Project
+by António Matos, João Frade, Dominik Zalewski and Alexandrous Grous.
+
+II. INSTALLATING APOCRYPHA
+
+To install Apocrypha, after unzip the file, open a terminal enside his directory
+an write the following commands:
+
+> chmod +x Apocrypha.sh
+> sudo apt-get install openssl
+> sudo apt-get upgrade
+> sudo apt-get update
+
+III. TO RUN APOCRYPHA
+ 
+To RUN Apocrypha, open a terminal enside this directory
+an write the following command:
+
+> ./Apocrypha.sh
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

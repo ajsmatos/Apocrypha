@@ -1,0 +1,20 @@
+      ____      __                  _ __       
+     /  _/___  / /____  ____ ______(_) /___  __
+     / // __ \/ __/ _ \/ __ `/ ___/ / __/ / / /
+   _/ // / / / /_/  __/ /_/ / /  / / /_/ /_/ / 
+  /___/_/ /_/\__/\___/\__, /_/  /_/\__/\__, /  
+                     /____/           /____/   
+
+
+
+#USAGE:
+	To Check the integrity of your files, just chose one of the algorithms available (md5, sha1),
+drag and drop your file and the hash to check to the respective folder. If the Integrity is valid,
+the files are moved to Int-Valid folder, if not they are moved to Int-Not-Valid folder.
+
+#CAUTION!
+	
+	To prevent bugs, DO NOT check the integrity of more than one file at the same time.
+
+	The hashes provided need to be correctly called "HashToCheck.sha1" or "HashToCheck.md5"
+	,depending on what kind of integrity verification you choosed.

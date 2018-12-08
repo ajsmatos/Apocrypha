@@ -1,0 +1,17 @@
+      ____  _                 __ 
+     / __ \(_)___ ____  _____/ /_
+    / / / / / __ `/ _ \/ ___/ __/
+   / /_/ / / /_/ /  __(__  ) /_  
+  /_____/_/\__, /\___/____/\__/  
+          /____/                 
+
+
+
+
+
+#USAGE:
+
+	To digest your files, just chose one of algorithms available (md5, sha1, sha256 and sha512),
+drag and drop your file to the respective folder, and get the hash value of your file (and your file)
+from the hashes folder.
+

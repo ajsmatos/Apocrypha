@@ -1,0 +1,15 @@
+      ______                            __  _           
+     / ____/___  ____________  ______  / /_(_)___  ____ 
+    / __/ / __ \/ ___/ ___/ / / / __ \/ __/ / __ \/ __ \
+   / /___/ / / / /__/ /  / /_/ / /_/ / /_/ / /_/ / / / /
+  /_____/_/ /_/\___/_/   \__, / .___/\__/_/\____/_/ /_/ 
+                        /____/_/                       
+
+#USAGE:
+	To Encrypt your files, just chose one of the algorithms available (aes-128-cbc, aes-256-cbc, des and des3),
+drag and drop your file to the respective folder, and get the key, iv, cryptogram, and your file from the
+Encrypted folder.
+	
+#CAUTION!
+	
+	To prevent bugs, DO NOT decrypt more than one file at the same time in the same folder.
